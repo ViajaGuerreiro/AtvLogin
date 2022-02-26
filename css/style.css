@@ -1,0 +1,55 @@
+#principal {
+    width: 1000px;
+    height: 1200px;
+    position: relative;
+    border: 1px solid #000;
+    margin: auto;
+    background-color: aqua;
+}
+
+#banner {
+    width: 990px;
+    height: 200px;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #54d9;
+}
+
+#corpo {
+    width: 990px;
+    height: 775px;
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 5px;
+    background-color: burlywood;
+}
+
+#rodape {
+    width: 990px;
+    height: 205px;
+    position: absolute;
+    margin-top: 990px;
+    margin-left: 5px;
+    background-color: darkcyan;
+}
+
+#formulario {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin-top: 215px;
+    margin-left: 220px;
+    border: 2px solid #000;
+}
+
+.botaoLog {
+    width: 105px;
+    height: 35px;
+    position: absolute;
+    color: aqua;
+    background-color: black;
+    margin-top: 150px;
+    margin-left: 200px;
+    border: 2px solid #54d9;
+}
